@@ -1,0 +1,18 @@
+html {
+	height: 99%;
+}
+
+body {
+	position: relative;
+	height: 99%;
+}
+
+.center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+	margin: auto;
+	width: 50%;
+}
